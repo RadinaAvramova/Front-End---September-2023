@@ -1,0 +1,29 @@
+/* Selector Types */
+
+/* 1. Element / Type selector */
+
+body {
+    background: #eee;
+}
+
+h1 {
+    background: #AAA;
+}
+
+/* 2. Class Selector */
+
+.warning {
+    background: yellow;
+}
+
+/* 3. ID Selector */
+
+#the-one-and-only {
+    background: red;
+}
+
+/* 4. Attribute Selector */
+
+[id] {
+    color: red;
+}
