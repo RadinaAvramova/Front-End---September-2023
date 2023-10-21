@@ -1,0 +1,28 @@
+/* 
+    Remove all white space from all elements.
+
+    This makes sure that any spaces are created
+    by the code we are writing.
+*/
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+/* 
+    Inheriting box-sizing Probably Slightly Better Best-Practice
+    https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/
+
+    Read more about Box Sizing at MDN and CSS Tricks
+    https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing
+    https://css-tricks.com/box-sizing/
+*/
+
+html {
+    box-sizing: border-box;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}

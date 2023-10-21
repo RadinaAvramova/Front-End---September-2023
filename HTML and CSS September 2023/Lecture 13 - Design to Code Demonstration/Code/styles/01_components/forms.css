@@ -1,0 +1,10 @@
+input, button {
+    display: block;
+    padding: 0.7em 1em;
+    border: 1px solid #000;
+    border-radius: 0.4em;
+}
+
+input + button {
+    margin-left: 1em;
+}

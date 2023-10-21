@@ -1,0 +1,23 @@
+
+.button {
+    display: block;
+    text-decoration: none;
+    border: none;
+    padding: 0.3em 0.6em;
+    border-radius: 0.3em;
+    border: 1px solid #000;
+}
+
+.button.primary {
+    background: #000;
+    color: #fff;
+}
+
+.button.secondary {
+    color: #000;
+    background: #fff;
+}
+
+.button + .button {
+    margin-left: 1em;
+}

@@ -1,0 +1,43 @@
+.site-navigation {
+    display: none;
+}
+
+.toggle-menu {
+    display: block;
+}
+
+@media (min-width: 600px) {
+    .site-navigation {
+        display: flex;
+        align-items: center;
+    }
+
+    .toggle-menu {
+        display: none;
+    }
+    
+}
+
+.site-navigation ul {
+    display: flex;
+    padding: 0;
+    margin-right: 1em;
+}
+
+.site-navigation li,
+.site-navigation a {
+    display: block;
+}
+
+.site-navigation ul a {
+    display: block;
+    padding: 0.5em;
+    color: #000;
+    text-decoration: none;
+    border: solid #fff;
+    border-width: 1px 0;
+}
+
+.site-navigation ul a:hover {
+    border-bottom-color: #000;
+}
