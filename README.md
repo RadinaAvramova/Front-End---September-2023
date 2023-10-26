@@ -1,38 +1,32 @@
 # Front-End-September-2023
 
-Модулът "Front-End" положи основни знания по уеб технологиите HTML и CSS. Придобих начални знания в уеб разработката, уеб браузъри, инструменти за HTML / CSS / DOM разработка и развих практически умения за използване на езика за описание на уеб съдържание - HTML - и езика за стилизиране на уеб съдържание - CSS. Придобих умения за правилно структуриране на Front-End частта на уеб приложенията и начини за нейното стилизиране според зададен дизайн. Във втората си част, модулът отправи по-задълбочен поглед към съвременния front-end дизайн и разработка чрез анимации, икони и гридове, както и следването на ясен работен процес. Модулът наблягаше на много практически упражнения, чрез които се въвлякохме в реални проекти за изработка на уеб страници, имплементация на фрагменти от сайтове и създаване на цялостни модерни уеб сайтове с добра визия, съвременна структура и мобилна поддръжка.
+The "Front-End" module lays the basic knowledge of HTML and CSS web technologies. You will gain a basic knowledge of web development, web browsers, HTML/CSS/DOM development tools and develop practical skills in using the web content description language - HTML - and the web content styling language - CSS. Skills are acquired to properly structure the Front-End part of web applications and how to style it according to a given design. In its second part, the module takes an in-depth look at modern front-end design and development through animations, icons and grids, as well as following a clear workflow. The module emphasises lots of practical exercises that will engage students in real-world projects to develop web pages, implement snippets of websites and create complete modern websites with good design, modern structure and mobile support.
 
+Acquired skills : 
 
-Умения, които придобих:
+  - Working with remote REST services
 
--Работа с отдалечени REST услуги
+  - Working with templates and routing
 
--Работа с шаблони и рутиране
+  - Working with component-based applications
 
--Компонентно-базирани приложения
+  - Using Single Page Application
 
--Какво е Single Page Applicaion
+  - Basic knowledge of React and JSX
 
--Основни познания по React и JSX
+  - Developing client applications with React
 
--Клиентски приложения с React
+  - Learning the basics of typography
 
--Създаване на съвременни уеб сайтове
+  - Styling websites with CSS
 
--Създаване на адаптивен (responsive) уеб дизайн
+  - Basic knowledge of building web pages
 
--Стилизиране на уеб сайтове със CSS
+  - Ability to create static web pages
 
-- Възможност за създаване на статични уеб страници
+  - Creating responsive web design
 
-- Основни познания в изграждането на уеб страници
-
-- Изучаване на основите на типографията
-
-
-
-Преподаватели: Ивайло Папазов и Константин Данков
-
+  - Creating modern websites
 
 
 
